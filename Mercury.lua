@@ -1029,20 +1029,18 @@ function Library:create(options)
 		Discord = "Moon#9601"
 	}
 	creditsTab:credit{
-		Name = "Gelatek, ProductionTakeOne, Danix, MyWorld",
-		Description = "CatWare Reanimate"
-	}
-	creditsTab:credit{
 		Name = "Abstract",
 		Description = "UI Library Developer",
-		Discord = "Abstract#8007",
-		V3rmillion = "AbstractPoo"
+		Discord = "Abstract#8007"
 	}
 	creditsTab:credit{
 		Name = "Deity",
 		Description = "UI Library Developer",
-		Discord = "Deity#0228",
-		V3rmillion = "0xDEITY"
+		Discord = "Deity#0228"
+	}
+	creditsTab:credit{
+		Name = "Gelatek, ProductionTakeOne, Danix, MyWorld",
+		Description = "CatWare Reanimate"
 	}
 
 	return mt
